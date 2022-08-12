@@ -5,8 +5,8 @@ hontoの特設セールページの書籍を全て抜粋し、Amazonの検索結
 ```
 cp .env.default .env
 ```
-.envに環境変数を記載する
-必要なもの
+.envに環境変数を記載する  
+必要なもの  
 - Amazon PAAPIのキー、シークレット
 - bit.lyのトークン
 
